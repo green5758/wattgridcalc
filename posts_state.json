@@ -1,6 +1,6 @@
 {
   "last_run_date": "2026-11-09",
-  "next_index": 6,
+  "next_index": 9,
   "published_articles": [
     {
       "index": 0,
@@ -37,6 +37,24 @@
       "slug": "review-renogy-500wh-600w-compact-series-for-full-size-kitchen-6",
       "date": "2026-11-09",
       "title": "Renogy 500Wh / 600W Compact Series Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
+    },
+    {
+      "index": 6,
+      "slug": "review-goal-zero-500wh-600w-compact-series-for-full-size-kitchen-7",
+      "date": "2026-11-09",
+      "title": "Goal Zero 500Wh / 600W Compact Series Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
+    },
+    {
+      "index": 7,
+      "slug": "review-bougerv-500wh-600w-compact-series-for-full-size-kitchen-8",
+      "date": "2026-11-09",
+      "title": "BougeRV 500Wh / 600W Compact Series Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
+    },
+    {
+      "index": 8,
+      "slug": "review-pecron-500wh-600w-compact-series-for-full-size-kitchen-9",
+      "date": "2026-11-09",
+      "title": "Pecron 500Wh / 600W Compact Series Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
     }
   ]
 }
