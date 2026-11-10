@@ -1,6 +1,6 @@
 {
-  "last_run_date": "2026-11-09",
-  "next_index": 9,
+  "last_run_date": "2026-11-10",
+  "next_index": 12,
   "published_articles": [
     {
       "index": 0,
@@ -55,6 +55,24 @@
       "slug": "review-pecron-500wh-600w-compact-series-for-full-size-kitchen-9",
       "date": "2026-11-09",
       "title": "Pecron 500Wh / 600W Compact Series Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
+    },
+    {
+      "index": 9,
+      "slug": "review-apc-by-schneider-500wh-600w-compact-series-for-full-size-kitchen-10",
+      "date": "2026-11-10",
+      "title": "APC by Schneider 500Wh / 600W Compact Series Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
+    },
+    {
+      "index": 10,
+      "slug": "review-cyberpower-500wh-600w-compact-series-for-full-size-kitchen-11",
+      "date": "2026-11-10",
+      "title": "CyberPower 500Wh / 600W Compact Series Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
+    },
+    {
+      "index": 11,
+      "slug": "review-victron-energy-500wh-600w-compact-series-for-full-size-kitchen-12",
+      "date": "2026-11-10",
+      "title": "Victron Energy 500Wh / 600W Compact Series Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
     }
   ]
 }
