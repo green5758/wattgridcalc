@@ -1,6 +1,6 @@
 {
-  "last_run_date": "2026-11-10",
-  "next_index": 12,
+  "last_run_date": "2026-11-11",
+  "next_index": 15,
   "published_articles": [
     {
       "index": 0,
@@ -73,6 +73,24 @@
       "slug": "review-victron-energy-500wh-600w-compact-series-for-full-size-kitchen-12",
       "date": "2026-11-10",
       "title": "Victron Energy 500Wh / 600W Compact Series Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
+    },
+    {
+      "index": 12,
+      "slug": "review-battle-born-500wh-600w-compact-series-for-full-size-kitchen-13",
+      "date": "2026-11-11",
+      "title": "Battle Born 500Wh / 600W Compact Series Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
+    },
+    {
+      "index": 13,
+      "slug": "review-generac-500wh-600w-compact-series-for-full-size-kitchen-14",
+      "date": "2026-11-11",
+      "title": "Generac 500Wh / 600W Compact Series Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
+    },
+    {
+      "index": 14,
+      "slug": "review-westinghouse-500wh-600w-compact-series-for-full-size-kitchen-15",
+      "date": "2026-11-11",
+      "title": "Westinghouse 500Wh / 600W Compact Series Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
     }
   ]
 }
