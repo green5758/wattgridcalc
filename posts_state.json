@@ -1,6 +1,6 @@
 {
-  "last_run_date": "2026-11-11",
-  "next_index": 15,
+  "last_run_date": "2026-11-12",
+  "next_index": 18,
   "published_articles": [
     {
       "index": 0,
@@ -91,6 +91,24 @@
       "slug": "review-westinghouse-500wh-600w-compact-series-for-full-size-kitchen-15",
       "date": "2026-11-11",
       "title": "Westinghouse 500Wh / 600W Compact Series Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
+    },
+    {
+      "index": 15,
+      "slug": "review-ecoflow-768wh-800w-mid-range-pro-for-full-size-kitchen-16",
+      "date": "2026-11-12",
+      "title": "EcoFlow 768Wh / 800W Mid-Range Pro Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
+    },
+    {
+      "index": 16,
+      "slug": "review-jackery-768wh-800w-mid-range-pro-for-full-size-kitchen-17",
+      "date": "2026-11-12",
+      "title": "Jackery 768Wh / 800W Mid-Range Pro Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
+    },
+    {
+      "index": 17,
+      "slug": "review-bluetti-768wh-800w-mid-range-pro-for-full-size-kitchen-18",
+      "date": "2026-11-12",
+      "title": "BLUETTI 768Wh / 800W Mid-Range Pro Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
     }
   ]
 }
