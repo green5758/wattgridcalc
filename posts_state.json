@@ -1,6 +1,6 @@
 {
-  "last_run_date": "2026-11-12",
-  "next_index": 18,
+  "last_run_date": "2026-11-13",
+  "next_index": 21,
   "published_articles": [
     {
       "index": 0,
@@ -109,6 +109,24 @@
       "slug": "review-bluetti-768wh-800w-mid-range-pro-for-full-size-kitchen-18",
       "date": "2026-11-12",
       "title": "BLUETTI 768Wh / 800W Mid-Range Pro Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
+    },
+    {
+      "index": 18,
+      "slug": "review-anker-solix-768wh-800w-mid-range-pro-for-full-size-kitchen-19",
+      "date": "2026-11-13",
+      "title": "Anker SOLIX 768Wh / 800W Mid-Range Pro Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
+    },
+    {
+      "index": 19,
+      "slug": "review-litime-768wh-800w-mid-range-pro-for-full-size-kitchen-20",
+      "date": "2026-11-13",
+      "title": "LiTime 768Wh / 800W Mid-Range Pro Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
+    },
+    {
+      "index": 20,
+      "slug": "review-renogy-768wh-800w-mid-range-pro-for-full-size-kitchen-21",
+      "date": "2026-11-13",
+      "title": "Renogy 768Wh / 800W Mid-Range Pro Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
     }
   ]
 }
