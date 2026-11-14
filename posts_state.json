@@ -1,6 +1,6 @@
 {
-  "last_run_date": "2026-11-13",
-  "next_index": 21,
+  "last_run_date": "2026-11-14",
+  "next_index": 24,
   "published_articles": [
     {
       "index": 0,
@@ -127,6 +127,24 @@
       "slug": "review-renogy-768wh-800w-mid-range-pro-for-full-size-kitchen-21",
       "date": "2026-11-13",
       "title": "Renogy 768Wh / 800W Mid-Range Pro Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
+    },
+    {
+      "index": 21,
+      "slug": "review-goal-zero-768wh-800w-mid-range-pro-for-full-size-kitchen-22",
+      "date": "2026-11-14",
+      "title": "Goal Zero 768Wh / 800W Mid-Range Pro Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
+    },
+    {
+      "index": 22,
+      "slug": "review-bougerv-768wh-800w-mid-range-pro-for-full-size-kitchen-23",
+      "date": "2026-11-14",
+      "title": "BougeRV 768Wh / 800W Mid-Range Pro Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
+    },
+    {
+      "index": 23,
+      "slug": "review-pecron-768wh-800w-mid-range-pro-for-full-size-kitchen-24",
+      "date": "2026-11-14",
+      "title": "Pecron 768Wh / 800W Mid-Range Pro Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
     }
   ]
 }
