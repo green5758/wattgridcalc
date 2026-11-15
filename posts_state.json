@@ -1,6 +1,6 @@
 {
-  "last_run_date": "2026-11-14",
-  "next_index": 24,
+  "last_run_date": "2026-11-15",
+  "next_index": 27,
   "published_articles": [
     {
       "index": 0,
@@ -145,6 +145,24 @@
       "slug": "review-pecron-768wh-800w-mid-range-pro-for-full-size-kitchen-24",
       "date": "2026-11-14",
       "title": "Pecron 768Wh / 800W Mid-Range Pro Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
+    },
+    {
+      "index": 24,
+      "slug": "review-apc-by-schneider-768wh-800w-mid-range-pro-for-full-size-kitchen-25",
+      "date": "2026-11-15",
+      "title": "APC by Schneider 768Wh / 800W Mid-Range Pro Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
+    },
+    {
+      "index": 25,
+      "slug": "review-cyberpower-768wh-800w-mid-range-pro-for-full-size-kitchen-26",
+      "date": "2026-11-15",
+      "title": "CyberPower 768Wh / 800W Mid-Range Pro Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
+    },
+    {
+      "index": 26,
+      "slug": "review-victron-energy-768wh-800w-mid-range-pro-for-full-size-kitchen-27",
+      "date": "2026-11-15",
+      "title": "Victron Energy 768Wh / 800W Mid-Range Pro Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
     }
   ]
 }
