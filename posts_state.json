@@ -1,6 +1,6 @@
 {
-  "last_run_date": "2026-11-15",
-  "next_index": 27,
+  "last_run_date": "2026-11-16",
+  "next_index": 30,
   "published_articles": [
     {
       "index": 0,
@@ -163,6 +163,24 @@
       "slug": "review-victron-energy-768wh-800w-mid-range-pro-for-full-size-kitchen-27",
       "date": "2026-11-15",
       "title": "Victron Energy 768Wh / 800W Mid-Range Pro Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
+    },
+    {
+      "index": 27,
+      "slug": "review-battle-born-768wh-800w-mid-range-pro-for-full-size-kitchen-28",
+      "date": "2026-11-16",
+      "title": "Battle Born 768Wh / 800W Mid-Range Pro Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
+    },
+    {
+      "index": 28,
+      "slug": "review-generac-768wh-800w-mid-range-pro-for-full-size-kitchen-29",
+      "date": "2026-11-16",
+      "title": "Generac 768Wh / 800W Mid-Range Pro Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
+    },
+    {
+      "index": 29,
+      "slug": "review-westinghouse-768wh-800w-mid-range-pro-for-full-size-kitchen-30",
+      "date": "2026-11-16",
+      "title": "Westinghouse 768Wh / 800W Mid-Range Pro Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
     }
   ]
 }
