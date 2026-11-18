@@ -1,6 +1,6 @@
 {
-  "last_run_date": "2026-11-17",
-  "next_index": 33,
+  "last_run_date": "2026-11-18",
+  "next_index": 36,
   "published_articles": [
     {
       "index": 0,
@@ -199,6 +199,24 @@
       "slug": "review-bluetti-1024wh-1500w-all-rounder-lfp-for-full-size-kitchen-33",
       "date": "2026-11-17",
       "title": "BLUETTI 1024Wh / 1500W All-Rounder LFP Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
+    },
+    {
+      "index": 33,
+      "slug": "review-anker-solix-1024wh-1500w-all-rounder-lfp-for-full-size-kitchen-34",
+      "date": "2026-11-18",
+      "title": "Anker SOLIX 1024Wh / 1500W All-Rounder LFP Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
+    },
+    {
+      "index": 34,
+      "slug": "review-litime-1024wh-1500w-all-rounder-lfp-for-full-size-kitchen-35",
+      "date": "2026-11-18",
+      "title": "LiTime 1024Wh / 1500W All-Rounder LFP Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
+    },
+    {
+      "index": 35,
+      "slug": "review-renogy-1024wh-1500w-all-rounder-lfp-for-full-size-kitchen-36",
+      "date": "2026-11-18",
+      "title": "Renogy 1024Wh / 1500W All-Rounder LFP Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
     }
   ]
 }
