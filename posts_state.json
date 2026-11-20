@@ -1,6 +1,6 @@
 {
-  "last_run_date": "2026-11-19",
-  "next_index": 39,
+  "last_run_date": "2026-11-20",
+  "next_index": 42,
   "published_articles": [
     {
       "index": 0,
@@ -235,6 +235,24 @@
       "slug": "review-pecron-1024wh-1500w-all-rounder-lfp-for-full-size-kitchen-39",
       "date": "2026-11-19",
       "title": "Pecron 1024Wh / 1500W All-Rounder LFP Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
+    },
+    {
+      "index": 39,
+      "slug": "review-apc-by-schneider-1024wh-1500w-all-rounder-lfp-for-full-size-kitchen-40",
+      "date": "2026-11-20",
+      "title": "APC by Schneider 1024Wh / 1500W All-Rounder LFP Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
+    },
+    {
+      "index": 40,
+      "slug": "review-cyberpower-1024wh-1500w-all-rounder-lfp-for-full-size-kitchen-41",
+      "date": "2026-11-20",
+      "title": "CyberPower 1024Wh / 1500W All-Rounder LFP Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
+    },
+    {
+      "index": 41,
+      "slug": "review-victron-energy-1024wh-1500w-all-rounder-lfp-for-full-size-kitchen-42",
+      "date": "2026-11-20",
+      "title": "Victron Energy 1024Wh / 1500W All-Rounder LFP Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
     }
   ]
 }
