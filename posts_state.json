@@ -1,6 +1,6 @@
 {
-  "last_run_date": "2026-11-21",
-  "next_index": 45,
+  "last_run_date": "2026-11-22",
+  "next_index": 48,
   "published_articles": [
     {
       "index": 0,
@@ -271,6 +271,24 @@
       "slug": "review-westinghouse-1024wh-1500w-all-rounder-lfp-for-full-size-kitchen-45",
       "date": "2026-11-21",
       "title": "Westinghouse 1024Wh / 1500W All-Rounder LFP Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
+    },
+    {
+      "index": 45,
+      "slug": "review-ecoflow-1536wh-1800w-high-capacity-pack-for-full-size-kitchen-46",
+      "date": "2026-11-22",
+      "title": "EcoFlow 1536Wh / 1800W High-Capacity Pack Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
+    },
+    {
+      "index": 46,
+      "slug": "review-jackery-1536wh-1800w-high-capacity-pack-for-full-size-kitchen-47",
+      "date": "2026-11-22",
+      "title": "Jackery 1536Wh / 1800W High-Capacity Pack Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
+    },
+    {
+      "index": 47,
+      "slug": "review-bluetti-1536wh-1800w-high-capacity-pack-for-full-size-kitchen-48",
+      "date": "2026-11-22",
+      "title": "BLUETTI 1536Wh / 1800W High-Capacity Pack Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
     }
   ]
 }
