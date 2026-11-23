@@ -1,6 +1,6 @@
 {
-  "last_run_date": "2026-11-22",
-  "next_index": 48,
+  "last_run_date": "2026-11-23",
+  "next_index": 51,
   "published_articles": [
     {
       "index": 0,
@@ -289,6 +289,24 @@
       "slug": "review-bluetti-1536wh-1800w-high-capacity-pack-for-full-size-kitchen-48",
       "date": "2026-11-22",
       "title": "BLUETTI 1536Wh / 1800W High-Capacity Pack Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
+    },
+    {
+      "index": 48,
+      "slug": "review-anker-solix-1536wh-1800w-high-capacity-pack-for-full-size-kitchen-49",
+      "date": "2026-11-23",
+      "title": "Anker SOLIX 1536Wh / 1800W High-Capacity Pack Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
+    },
+    {
+      "index": 49,
+      "slug": "review-litime-1536wh-1800w-high-capacity-pack-for-full-size-kitchen-50",
+      "date": "2026-11-23",
+      "title": "LiTime 1536Wh / 1800W High-Capacity Pack Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
+    },
+    {
+      "index": 50,
+      "slug": "review-renogy-1536wh-1800w-high-capacity-pack-for-full-size-kitchen-51",
+      "date": "2026-11-23",
+      "title": "Renogy 1536Wh / 1800W High-Capacity Pack Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
     }
   ]
 }
