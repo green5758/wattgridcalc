@@ -1,6 +1,6 @@
 {
-  "last_run_date": "2026-11-23",
-  "next_index": 51,
+  "last_run_date": "2026-11-24",
+  "next_index": 54,
   "published_articles": [
     {
       "index": 0,
@@ -307,6 +307,24 @@
       "slug": "review-renogy-1536wh-1800w-high-capacity-pack-for-full-size-kitchen-51",
       "date": "2026-11-23",
       "title": "Renogy 1536Wh / 1800W High-Capacity Pack Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
+    },
+    {
+      "index": 51,
+      "slug": "review-goal-zero-1536wh-1800w-high-capacity-pack-for-full-size-kitchen-52",
+      "date": "2026-11-24",
+      "title": "Goal Zero 1536Wh / 1800W High-Capacity Pack Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
+    },
+    {
+      "index": 52,
+      "slug": "review-bougerv-1536wh-1800w-high-capacity-pack-for-full-size-kitchen-53",
+      "date": "2026-11-24",
+      "title": "BougeRV 1536Wh / 1800W High-Capacity Pack Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
+    },
+    {
+      "index": 53,
+      "slug": "review-pecron-1536wh-1800w-high-capacity-pack-for-full-size-kitchen-54",
+      "date": "2026-11-24",
+      "title": "Pecron 1536Wh / 1800W High-Capacity Pack Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
     }
   ]
 }
