@@ -863,6 +863,7 @@ def build_article_page(article: dict, recent_articles: list[dict]) -> str:
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{article['title']} ({article['date']} Lab Analysis & Runtime Calculator)</title>
+  <meta name="google-site-verification" content="pgvlG0f03ZrRZzbgDSXRhr6tsSfseFOhXCN6Yv_j5b8" />         
   <meta name="description" content="In-depth engineering review of the {article['brand']} {article['model_name']} ({article['wh']}Wh / {article['watts']}W) for {article['app_title']}. Includes runtime calculator, specs, and Amazon price check." />
   <link rel="canonical" href="{BASE_URL}/reviews/{article['slug']}.html" />
   <meta property="og:title" content="{article['title']}" />
