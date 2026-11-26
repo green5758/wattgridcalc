@@ -1,6 +1,6 @@
 {
-  "last_run_date": "2026-11-25",
-  "next_index": 60,
+  "last_run_date": "2026-11-26",
+  "next_index": 63,
   "published_articles": [
     {
       "index": 0,
@@ -361,6 +361,24 @@
       "slug": "review-westinghouse-1536wh-1800w-high-capacity-pack-for-full-size-kitchen-60",
       "date": "2026-11-25",
       "title": "Westinghouse 1536Wh / 1800W High-Capacity Pack Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
+    },
+    {
+      "index": 60,
+      "slug": "review-ecoflow-2048wh-2400w-dual-fuel-solar-hub-for-full-size-kitchen-61",
+      "date": "2026-11-26",
+      "title": "EcoFlow 2048Wh / 2400W Dual-Fuel Solar Hub Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
+    },
+    {
+      "index": 61,
+      "slug": "review-jackery-2048wh-2400w-dual-fuel-solar-hub-for-full-size-kitchen-62",
+      "date": "2026-11-26",
+      "title": "Jackery 2048Wh / 2400W Dual-Fuel Solar Hub Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
+    },
+    {
+      "index": 62,
+      "slug": "review-bluetti-2048wh-2400w-dual-fuel-solar-hub-for-full-size-kitchen-63",
+      "date": "2026-11-26",
+      "title": "BLUETTI 2048Wh / 2400W Dual-Fuel Solar Hub Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
     }
   ]
 }
