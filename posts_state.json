@@ -1,6 +1,6 @@
 {
-  "last_run_date": "2026-11-26",
-  "next_index": 63,
+  "last_run_date": "2026-11-27",
+  "next_index": 66,
   "published_articles": [
     {
       "index": 0,
@@ -379,6 +379,24 @@
       "slug": "review-bluetti-2048wh-2400w-dual-fuel-solar-hub-for-full-size-kitchen-63",
       "date": "2026-11-26",
       "title": "BLUETTI 2048Wh / 2400W Dual-Fuel Solar Hub Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
+    },
+    {
+      "index": 63,
+      "slug": "review-anker-solix-2048wh-2400w-dual-fuel-solar-hub-for-full-size-kitchen-64",
+      "date": "2026-11-27",
+      "title": "Anker SOLIX 2048Wh / 2400W Dual-Fuel Solar Hub Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
+    },
+    {
+      "index": 64,
+      "slug": "review-litime-2048wh-2400w-dual-fuel-solar-hub-for-full-size-kitchen-65",
+      "date": "2026-11-27",
+      "title": "LiTime 2048Wh / 2400W Dual-Fuel Solar Hub Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
+    },
+    {
+      "index": 65,
+      "slug": "review-renogy-2048wh-2400w-dual-fuel-solar-hub-for-full-size-kitchen-66",
+      "date": "2026-11-27",
+      "title": "Renogy 2048Wh / 2400W Dual-Fuel Solar Hub Review: Tested for Full-Size Kitchen Refrigerator & Freezer Blackout Backup"
     }
   ]
 }
